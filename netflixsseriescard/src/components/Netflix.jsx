@@ -10,7 +10,7 @@ function Netflix(props) {
             <span className="cardcategory">{props.title}</span>
             <h3 className="cardtitle">{props.sname}</h3>
             <a href={props.link}>
-              <button>watch now</button>
+              <button className="btn1">watch now</button>
             </a>
           </div>
         </div>
