@@ -1,0 +1,18 @@
+.timebtn {
+  font-size: xx-large;
+  text-transform: uppercase;
+  border-radius: 15px;
+  padding: 5px;
+  background-color: lightskyblue;
+  font-family: cursive;
+  font-weight: bold;
+}
+.show {
+  background-color: yellow;
+  width: fit-content;
+  margin: auto;
+  padding: 10px;
+  font-size: xx-large;
+  border-radius: 10px 20px;
+  border: 1px solid black;
+}

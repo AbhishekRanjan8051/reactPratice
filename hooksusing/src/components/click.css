@@ -1,0 +1,18 @@
+.btn {
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: cursive;
+  border-radius: 15px;
+}
+.btn:hover {
+  transform: scale(1.2);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.btnstyle {
+  display: grid;
+  grid-template-columns: auto auto;
+  width: fit-content;
+  margin: auto;
+  gap: 10px;
+}
