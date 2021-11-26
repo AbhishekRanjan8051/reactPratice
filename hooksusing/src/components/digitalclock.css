@@ -1,0 +1,16 @@
+h1 {
+  text-transform: uppercase;
+
+}
+.digitalclock {
+  background-color: lightseagreen;
+  padding: 10px;
+  width: fit-content;
+  margin: auto;
+  border-radius: 15px;
+}
+.digitalclock > h2 {
+  color: white;
+  font-size: xxx-large;
+  font-family: cursive;
+}
